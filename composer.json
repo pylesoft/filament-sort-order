@@ -1,18 +1,17 @@
 {
-    "name": "ibrahimbougaoua/filament-sort-order",
+    "name": "pylesoft/filament-sort-order",
     "description": "This is my package filament-sort-order",
     "keywords": [
-        "ibrahimBougaoua",
         "laravel",
         "filament-sort-order"
     ],
-    "homepage": "https://github.com/ibrahimbougaoua/filament-sort-order",
+    "homepage": "https://github.com/pylesoft/filament-sort-order",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Ibrahim",
-            "email": "ibrahim.bougaoua@etu.usthb.dz",
-            "role": "Developer"
+        "authors": [
+            {
+                "name": "PyleSoft",
+                "email": "info@pylesoft.com",
+                "role": "Developer"
         }
     ],
     "require": {
